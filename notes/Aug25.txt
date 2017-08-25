@@ -27,3 +27,16 @@ Design Patterns
 	generates a new instance for everyon who asks for one
 	
 	4. 
+
+
+----------------------------
+Agile Development
+----------------------------
+	1. CMMI -> Process/Governance
+	2. Kanban -> Process/State of execution 
+	3. Scrum -> Sprints
+		Backlog: List of tasks that need to be done
+		Planning: what can be done now
+		Review: review backlog to move forward
+		Task: set of actions that needs to happen
+		Capacity: How much can you do
