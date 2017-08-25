@@ -40,3 +40,20 @@ Agile Development
 		Review: review backlog to move forward
 		Task: set of actions that needs to happen
 		Capacity: How much can you do
+
+----------------------------
+	VCS
+----------------------------
+	1. Centralized - one server -> user machines
+		TFS
+		upwards: check in
+		downwards: check out
+		sideways: shelving
+		overarching: merge
+	2. Distributed - remote -> local -> user machines
+		Git
+		Remote Server(GitHub)
+		upwards -> commit -> push
+		downwards -> fetch -> pull
+		sideways: stash, branch
+		overarching: merge
