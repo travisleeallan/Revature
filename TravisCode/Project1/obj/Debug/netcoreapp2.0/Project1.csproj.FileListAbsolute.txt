@@ -1,0 +1,10 @@
+/Users/travisallan/Revature/TravisCode/Project1/bin/Debug/netcoreapp2.0/Project1.deps.json
+/Users/travisallan/Revature/TravisCode/Project1/bin/Debug/netcoreapp2.0/Project1.runtimeconfig.json
+/Users/travisallan/Revature/TravisCode/Project1/bin/Debug/netcoreapp2.0/Project1.runtimeconfig.dev.json
+/Users/travisallan/Revature/TravisCode/Project1/bin/Debug/netcoreapp2.0/Project1.dll
+/Users/travisallan/Revature/TravisCode/Project1/bin/Debug/netcoreapp2.0/Project1.pdb
+/Users/travisallan/Revature/TravisCode/Project1/obj/Debug/netcoreapp2.0/Project1.csproj.CoreCompileInputs.cache
+/Users/travisallan/Revature/TravisCode/Project1/obj/Debug/netcoreapp2.0/Project1.AssemblyInfoInputs.cache
+/Users/travisallan/Revature/TravisCode/Project1/obj/Debug/netcoreapp2.0/Project1.AssemblyInfo.cs
+/Users/travisallan/Revature/TravisCode/Project1/obj/Debug/netcoreapp2.0/Project1.dll
+/Users/travisallan/Revature/TravisCode/Project1/obj/Debug/netcoreapp2.0/Project1.pdb

@@ -1,0 +1,10 @@
+/Users/travisallan/Revature/TravisCode/StringCat/bin/Debug/netcoreapp2.0/StringCat.deps.json
+/Users/travisallan/Revature/TravisCode/StringCat/bin/Debug/netcoreapp2.0/StringCat.runtimeconfig.json
+/Users/travisallan/Revature/TravisCode/StringCat/bin/Debug/netcoreapp2.0/StringCat.runtimeconfig.dev.json
+/Users/travisallan/Revature/TravisCode/StringCat/bin/Debug/netcoreapp2.0/StringCat.dll
+/Users/travisallan/Revature/TravisCode/StringCat/bin/Debug/netcoreapp2.0/StringCat.pdb
+/Users/travisallan/Revature/TravisCode/StringCat/obj/Debug/netcoreapp2.0/StringCat.csproj.CoreCompileInputs.cache
+/Users/travisallan/Revature/TravisCode/StringCat/obj/Debug/netcoreapp2.0/StringCat.AssemblyInfoInputs.cache
+/Users/travisallan/Revature/TravisCode/StringCat/obj/Debug/netcoreapp2.0/StringCat.AssemblyInfo.cs
+/Users/travisallan/Revature/TravisCode/StringCat/obj/Debug/netcoreapp2.0/StringCat.dll
+/Users/travisallan/Revature/TravisCode/StringCat/obj/Debug/netcoreapp2.0/StringCat.pdb

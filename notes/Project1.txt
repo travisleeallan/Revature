@@ -1,0 +1,49 @@
+Scheduler App
+Project 1
+Start Date: 8/25/2017
+
+Description:
+
+
+			Requirements
+-----------------------------------------------------------
+1. Student
+-----------------------------------------------------------
+	Select courses
+	Register Selected courses
+	will be considered full time if credits are >= 12
+	will be condsidered part time credits < 12
+	cannot register for the same courses twice
+	cannot register for an already scheduled or overlapping time
+	cannot register for more than 18 hours
+	make all hard valuables configurable in configurtion files
+	can drop courses at any time
+	cannot register if a course is full
+	view schedule
+
+-----------------------------------------------------------
+2. Professor
+-----------------------------------------------------------
+	remove their course
+	register a student
+	update their course
+	view schedule
+	view number of students
+	any student actions
+	update students schedule for changes
+-----------------------------------------------------------
+3. Registrar
+-----------------------------------------------------------
+	create courses
+	delete courses
+	assign courses
+	any professor actions
+	can see all schedules with master schedule
+	update any course
+	update students schedule for changes
+-----------------------------------------------------------
+4. Other
+-----------------------------------------------------------
+	A. everything we have talked about thus far must be 
+	   implemented in some way
+	B. 

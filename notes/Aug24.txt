@@ -1,0 +1,25 @@
+----------------------------
+Testing
+----------------------------
+	Unit -> integration -> component/module -> system -> UI/end2end/usability
+
+	unit
+	-----------
+	  xunit
+	  mstest
+	  Nunit
+	-----------
+	  command: dotnet test
+-----------------------------
+Todo App
+-----------------------------
+	create
+	read
+	update
+	delete
+	complete
+	----------
+	list of deleted
+	list of completed
+	list of active
+	with tests

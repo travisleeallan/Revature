@@ -1,0 +1,29 @@
+----------------------------
+Threads
+----------------------------
+	1. threads must be handled carefully
+	2. instead we do tasks
+
+----------------------------
+Tasks
+----------------------------
+	1. Tasks are unbounded(as many as you want, as possible)
+	2. Tasks are an improvement of threads
+	3. Tasks find any thread(space in queue) that is not being used
+	4. maximum efficeincy
+	5. cpu used to the max of ability
+	6. still have to be spawned, killed, and errors can occur
+	7. 
+----------------------------
+Design Patterns
+----------------------------
+	1. singleton: you always get exactly the same instance irregardles
+	if you call new or not
+	generating one instance for everyone
+
+	2. factory: generate a new instance for everyone who asks for it
+
+	3. abstract factory: factory that generates the factory that 
+	generates a new instance for everyon who asks for one
+	
+	4. 

@@ -1,0 +1,10 @@
+/Users/travisallan/Revature/TravisCode/shapeGarden/obj/Debug/netcoreapp2.0/shapeGarden.csproj.CoreCompileInputs.cache
+/Users/travisallan/Revature/TravisCode/shapeGarden/obj/Debug/netcoreapp2.0/shapeGarden.AssemblyInfoInputs.cache
+/Users/travisallan/Revature/TravisCode/shapeGarden/obj/Debug/netcoreapp2.0/shapeGarden.AssemblyInfo.cs
+/Users/travisallan/Revature/TravisCode/shapeGarden/bin/Debug/netcoreapp2.0/shapeGarden.deps.json
+/Users/travisallan/Revature/TravisCode/shapeGarden/bin/Debug/netcoreapp2.0/shapeGarden.runtimeconfig.json
+/Users/travisallan/Revature/TravisCode/shapeGarden/bin/Debug/netcoreapp2.0/shapeGarden.runtimeconfig.dev.json
+/Users/travisallan/Revature/TravisCode/shapeGarden/bin/Debug/netcoreapp2.0/shapeGarden.dll
+/Users/travisallan/Revature/TravisCode/shapeGarden/bin/Debug/netcoreapp2.0/shapeGarden.pdb
+/Users/travisallan/Revature/TravisCode/shapeGarden/obj/Debug/netcoreapp2.0/shapeGarden.dll
+/Users/travisallan/Revature/TravisCode/shapeGarden/obj/Debug/netcoreapp2.0/shapeGarden.pdb
