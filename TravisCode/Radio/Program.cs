@@ -52,5 +52,25 @@ namespace Radio
             await ap.AsyncParty();
             //Thread.Sleep(5000);
         }
+
+        public static void FactoryPattern()
+        {
+            var g = new Gaming : Computer;
+            var h = new Business : Computer;
+
+            foreach (var item in g.stuff)
+            {
+                System.Console.WriteLine(item)
+            }
+        }
+
+        public static void FactoryofFactories() 
+        {
+            var g = n.Instance<Gaming>();
+
+            var c = new Gaming();
+
+            
+        }
     }
 }
