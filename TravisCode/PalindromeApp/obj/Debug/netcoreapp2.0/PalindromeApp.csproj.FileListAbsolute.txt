@@ -1,0 +1,3 @@
+/Users/travisallan/Revature/TravisCode/PalindromeApp/obj/Debug/netcoreapp2.0/PalindromeApp.csproj.CoreCompileInputs.cache
+/Users/travisallan/Revature/TravisCode/PalindromeApp/obj/Debug/netcoreapp2.0/PalindromeApp.AssemblyInfoInputs.cache
+/Users/travisallan/Revature/TravisCode/PalindromeApp/obj/Debug/netcoreapp2.0/PalindromeApp.AssemblyInfo.cs
