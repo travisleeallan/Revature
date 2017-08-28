@@ -8,8 +8,21 @@ namespace PalindromeApp.Test
   {
     public void TestInput()
     {
-      var input = new InputString() { Content = "never odd or even"};
-      input = StringConcatter.Formatter(input.Content);
+      InputString input = new InputString() { Content = "never odd or even"};
+      
+      System.Console.WriteLine("{0}", input.Content);
+    }
+    public void TestExecution()
+    {
+      InputString input2 = new InputString() { Content = "never odd or even"};
+      input2.RMspace();
+      
+      var res = input2.IsPalindrome();
+      if (res == true) 
+      {
+        System.Console.WriteLine("The string: {0}, is a palindrome!", input2.Content);;
+      }
+      else System.Console.WriteLine("The string: {0}, is not a palindrome", input2.Content);
     }
 
   }
