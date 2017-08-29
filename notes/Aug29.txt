@@ -1,0 +1,118 @@
+					SQL
+-------------------------------------------------------------------------------------------
+----------------------------------------------------------------
+------------------------------
+ Relational
+------------------------------
+	- MS SQLServer
+	- OracleDB
+	- IBM DB2
+	- SAP Sybase
+	- MySQL
+	- MariaDB
+
+-------------------------------
+ NonRelational
+-------------------------------
+	- NoSQL
+	- Document -> MongoDB
+	- Key Value Pair -> Redis
+	- Object Modle -> ?
+
+-------------------------------
+ Data Normalization
+-------------------------------
+	- normal form
+	- 1nf -> 6nf
+	- 3nf/4nf (gold standard)
+--------------------------------
+ 1nf: 1st normal form
+--------------------------------
+	name | title | hobby
+	--------------------
+	 fb  | t     | f, rc, c
+	 fb  | m     | .net
+	
+--------------------------------
+ 2nf: 2nd normal form
+--------------------------------
+	- primary key / foreign key relationship
+
+	 pk		fk		pk	fk
+	id   | name  | title		id   | title
+	--------------------	       --------------
+	 1   | fb    | 1		1    | t
+	 2   | fb    | 2		2    | m
+	 3   | jb    | 1
+
+	subnotes: 
+		A. also look up reterntial integrity
+		B. whether or not unique keys can be null for your version of SQL
+
+--------------------------------
+ 3nf: 3rd normal form (look up relationships between tables for visual aid)
+--------------------------------
+	- each record in the database should be uniquely identified
+	- Transient Values are stored in their own table(transation table or junction table)
+	- each normal form builds upon the previous form
+	- 
+
+--------------------------------
+ 3.5nf: no current projects will require this
+--------------------------------
+	- self referential: outside reference and inside reference within table
+	- domain table
+	- look up later
+
+--------------------------------
+ 4nf: no current projects will require this
+--------------------------------
+	- domain table
+	- look up later
+	
+--------------------------------
+ DDL: Data definition language
+--------------------------------
+	- SQL Standards 2005
+	- MS SQL(T-SQL) foolows 2005 standards at 85+%
+	- OracleDB(PL/SQL follows 2005 standards at 80+%
+	- Databases are for the most part portable
+	
+	- Database Structure(not the data itself)
+		A. Create
+		B. Alter
+		C. Drop: recoverable, slower process
+		D. Truncate: not recoverable, faster process
+	
+	- 
+
+--------------------------------
+ DML: data manipulation language
+--------------------------------
+
+	-CRUD
+		A. Select
+		B. Insert
+		C. Update
+		D. Delete
+
+	-Database
+	-Schema
+		A. table
+		B. view: abstraction to data
+		C. function: delegating/not meant to be heavy
+		D. procedure: stored
+
+	-trigger: 
+		A. before: before this, do this
+		B. for: not very used
+		C. after: after this, do this
+		D. instead of: do not use
+	
+	-index: 
+		A. seek: very fast
+		B. scan: very broad 
+		C. fetch: very slow, goes to everything
+		
+		everytime we index another index tble is created behind the scenes
+		
