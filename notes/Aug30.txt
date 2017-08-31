@@ -1,0 +1,30 @@
+				----SQL2----
+------------------------------------------------------------------------------
+--------------------------
+ 1. Join
+--------------------------
+	- inner join
+	- outer join
+		A. left join
+		B. right join
+		C. full join: A + (B - A(intersect)B)
+	- self join
+	- cross join: A x B
+
+--------------------------
+ 2. Union
+--------------------------
+	- union: (A U B)
+	- union all: unions everything including duplication (A + B)
+	- intersect: unions what matches (A (intersect) B)
+	- except: everything of A that is not B (A - A (intersect) B)
+	- based on datatype
+
+--------------------------
+ 3. 
+--------------------------
+
+
+--------------------------
+ 4. 
+--------------------------
