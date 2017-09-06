@@ -1,0 +1,35 @@
+-----SQL3-----
+
+-----------------------
+ 1. DDL
+-----------------------
+	constraints
+	-----------------------
+	primary key | check
+	foreign key | computed
+	null	    | default
+	not null    | 
+	unique	    | Identity
+	index	    |
+	data type   |
+
+-----------------------
+ 2. Isolation Level
+-----------------------
+	1. Read Uncommited
+	2. Read commited
+	3. Repeatable
+	4. Serialable
+	5. Row versioning
+
+-----------------------
+ 3. ACID
+-----------------------
+	1. Atomicity
+	2. Consistency
+	3. Isolation
+	4. Durability
+
+-----------------------
+ 4. 
+-----------------------
