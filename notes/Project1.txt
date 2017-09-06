@@ -47,3 +47,22 @@ Description:
 	A. everything we have talked about thus far must be 
 	   implemented in some way
 	B. 
+
+-----------------------------------------------------------
+5. structure
+-----------------------------------------------------------
+	SchedulerApp
+	
+	SchedulerApp.Client 
+	|	   |
+	v talks to v
+        |          |
+	SchedulerApp.Domain logic(code), 
+	|	   |
+	v talks to v
+        |          |
+	SchedulerApp.Data
+	|	   |
+	v talks to v
+        |          |
+	ShcedulerAppDB
