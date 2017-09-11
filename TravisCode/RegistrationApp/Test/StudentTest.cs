@@ -2,7 +2,7 @@ using System;
 
 namespace RegistrationApp.Test 
 {
-  public class RegistrarTest 
+  public class StudentTest 
   {
 
   }
