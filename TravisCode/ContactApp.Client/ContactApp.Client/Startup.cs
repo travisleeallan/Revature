@@ -25,10 +25,7 @@ namespace ContactApp.Client
                 app.UseDeveloperExceptionPage();
             }
 
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });
+            app.UseMvc(r => r.MapRoute("default", "{controller}/{action}", new { controller = "Home", action = "Index" }));
         }
     }
 }
