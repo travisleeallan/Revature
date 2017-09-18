@@ -18,7 +18,7 @@ namespace RegistrationApp4
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer(@"Server=tlarevdb1.database.windows.net;database=RegAppDB;user id=tradmin;password=L0n3r1sm;");
+                optionsBuilder.UseSqlServer();
             }
         }
 
