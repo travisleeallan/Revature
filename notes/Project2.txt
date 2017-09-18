@@ -1,0 +1,19 @@
+Dev Opps
+Web API
+Angular
+JS
+
+examples
+Apartments.com
+Airbnb
+Amazon.com
+Fleet Management
+National.com
+Chat+Chatbot
+Risk Analysis
+
+Idea
+	1. Music sharing website like soundcloud or bandcamp
+	2. Web based DAE(digital audio environment)
+	3. Social Media Website
+	4. 

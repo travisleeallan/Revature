@@ -4,6 +4,11 @@ Start Date: 8/25/2017
 
 Description:
 
+needs
+SQL
+EF
+MVC
+C#
 
 			Requirements
 -----------------------------------------------------------

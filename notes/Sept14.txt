@@ -1,0 +1,22 @@
+ UIs
+-----------------------
+desktop
+	winforms
+	wpf
+	XAML
+	UWP
+
+web
+	webforms - depricated but still supported, resembles winforms
+	webpage - HTML 
+	asp.net - webforms, webservices
+	asp.net mvc - separates logic data and UI
+		viewbag -> dynamic keyword(dynamic type creation)
+		viewdata -> dictionary type
+		tempdata -> 
+		session ->
+		model directive ->
+mobile
+	winRT
+	Xamarin
+
