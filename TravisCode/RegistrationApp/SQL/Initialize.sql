@@ -1,7 +1,6 @@
---create database SchedulerAppDB
---go
 
-use SchedulerAppDB;
+
+use RegAppDB;
 go
 
 create table Courses
@@ -71,7 +70,7 @@ insert into Students(
   ,Lname
   ,Classification
   ,Major
-  ,NumHours
+  ,NumClasses
 )
 values (1, 'Travis', 'Allan', 'Senior', 'Computer Science', 0);
 
@@ -90,7 +89,7 @@ insert into InstructorEnrollment(InstructorID, CourseID)
 values(1,1);
 
 update Courses
-set InstructorID = 1;
+set InstructorID = 1
 where ID = 1; 
 
 go 
